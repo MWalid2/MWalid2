@@ -1,9 +1,3 @@
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/hero?username=MWalid2&theme=github-dark&mode=light" />
-    <img src="https://www.gitskins.com/api/section/hero?username=MWalid2&theme=github-dark" alt="MWalid2 hero section" />
-  </picture>
-</p>
 
 <h2 align="center">Industrial Management Engineer · Data Science · Optimization</h2>
 
@@ -12,9 +6,9 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/">LinkedIn</a> ·
+  <a href="https://www.linkedin.com/in/walid-maioute-19a4b5252/">LinkedIn</a> ·
   <a href="https://github.com/MWalid2">GitHub</a> ·
-  <a href="mailto:your.email@example.com">Email</a>
+  <a href="mailto:walid.maioute@emines.um6p.ma">Email</a>
 </p>
 
 ---
@@ -120,17 +114,6 @@ Industrial AI          Optimization          Data Science
 
 ---
 
-## 📈 GitHub
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=MWalid2&theme=github-dark&mode=light" />
-    <img src="https://www.gitskins.com/api/section/stats?username=MWalid2&theme=github-dark" alt="MWalid2 GitHub statistics" />
-  </picture>
-</p>
-
----
-
 ## 📌 Currently Working On
 
 * 🔬 Industrial predictive maintenance
@@ -144,7 +127,7 @@ Industrial AI          Optimization          Data Science
 ## 🤝 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/">
+  <a href="://www.linkedin.com/in/walid-maioute-19a4b5252/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/MWalid2">
