@@ -24,8 +24,7 @@ My work focuses on turning real-world problems into data-driven and optimization
 * 🔧 **Predictive Maintenance**
 * ⚡ **Energy Management & Reinforcement Learning**
 * 📊 **Data Analytics & Decision Support**
-* ⚽ **Football Analytics**
-
+* 
 I enjoy working at the intersection of **engineering, data, and decision-making**.
 
 ---
@@ -119,7 +118,6 @@ Industrial AI          Optimization          Data Science
 * 🔬 Industrial predictive maintenance
 * 🏭 Production planning & scheduling optimization
 * ⚡ Reinforcement learning for energy management
-* ⚽ Building data-driven football projects
 * 📚 Deepening my knowledge of optimization and operations research
 
 ---
